@@ -1,0 +1,4 @@
+#Wed Jul 08 21:37:56 IST 2020
+base.0=/Users/devrajkumar/Gocomet/build/app/intermediates/transforms/r8/release/0/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/devrajkumar/Gocomet/build/url_launcher/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/devrajkumar/.gradle/caches/transforms-2/files-2.1/615cbc3b009c6ace60b4a000b7c5707b/core-1.1.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/devrajkumar/Gocomet/build/url_launcher/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/devrajkumar/.gradle/caches/transforms-2/files-2.1/615cbc3b009c6ace60b4a000b7c5707b/core-1.1.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/devrajkumar/Gocomet/build/url_launcher/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/devrajkumar/.gradle/caches/transforms-2/files-2.1/615cbc3b009c6ace60b4a000b7c5707b/core-1.1.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/devrajkumar/Gocomet/build/url_launcher/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/devrajkumar/.gradle/caches/transforms-2/files-2.1/615cbc3b009c6ace60b4a000b7c5707b/core-1.1.0/res/layout-v21/notification_template_custom_big.xml"
+    }
+]
